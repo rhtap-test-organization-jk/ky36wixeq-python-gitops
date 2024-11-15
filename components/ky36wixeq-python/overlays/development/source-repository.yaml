@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ky36wixeq-python-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ky36wixeq-python
